@@ -6,12 +6,6 @@ import javax.xml.soap.SOAPFactory;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * TODO
- *
- * @author wj
- * @date 2021/8/5 17:14
- */
 public class SoapUtils {
     static String pUsername = "pUsername";
     static String pPassword = "pPassword";

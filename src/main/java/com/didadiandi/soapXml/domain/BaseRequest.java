@@ -6,12 +6,6 @@ import lombok.Setter;
 
 import javax.xml.bind.annotation.XmlElement;
 
-/**
- * TODO
- *
- * @author wj
- * @date 2021/8/9 16:43
- */
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor

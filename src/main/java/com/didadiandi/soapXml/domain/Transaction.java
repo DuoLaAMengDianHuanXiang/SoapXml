@@ -11,10 +11,6 @@ import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlType;
 import java.util.List;
 
-/**
- * @author vincentchen
- * @date 2020/8/18.
- */
 @Setter
 @XmlRootElement(name = "AVS_TRANSACTIONS")
 @Builder

@@ -31,12 +31,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * TODO
- *
- * @author wj
- * @date 2021/8/9 15:29
- */
 public class SoapXmlMain {
     static String prefix = "soapenv";
     static String myNamespace = "web";

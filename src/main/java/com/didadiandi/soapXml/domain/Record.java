@@ -9,10 +9,6 @@ import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlType;
 
-/**
- * @author wj
- * @date 2021/8/5 10:40
- */
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor

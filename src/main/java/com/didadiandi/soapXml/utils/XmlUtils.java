@@ -3,7 +3,6 @@ package com.didadiandi.soapXml.utils;
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
 import org.dom4j.DocumentHelper;
-import org.dom4j.Element;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
@@ -11,14 +10,7 @@ import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
 import java.io.StringReader;
 import java.io.StringWriter;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
 
-/**
- * @author wj
- * @date 2020/7/21 16:28
- */
 public class XmlUtils {
 
     public static <T> String objToXml(T t) throws JAXBException {
